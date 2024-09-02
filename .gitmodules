@@ -1,0 +1,6 @@
+[submodule "nexxit/the_snake"]
+	path = nexxit/the_snake
+	url = git@github.com:nexxit-ya/the_snake.git
+[submodule "nexxit/minesweeper"]
+	path = nexxit/minesweeper
+	url = git@github.com:nexxit-ya/minesweeper.git
